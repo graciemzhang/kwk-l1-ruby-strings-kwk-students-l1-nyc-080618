@@ -25,4 +25,8 @@ day_before = (date.to_i) - 1
 
 puts "Dear #{guest_name}, 
 
-You are cordially invited to the #{party_name} on #{date} at #{time}. Please RSVP no later than #{month} #{day_before}"
+You are cordially invited to the #{party_name} on #{date} at #{time}. Please RSVP no later than #{month} #{day_before}.
+
+Sincerely,
+
+#{host_name}"
