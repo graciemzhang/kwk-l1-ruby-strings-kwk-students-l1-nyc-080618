@@ -10,6 +10,9 @@ party_name = gets.chomp
 puts "date?"
 date = gets.chomp
 
+puts "time?"
+time = gets.chomp
+
 puts "host name?"
 host_name = gets.chomp
 
