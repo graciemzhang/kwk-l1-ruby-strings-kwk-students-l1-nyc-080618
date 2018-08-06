@@ -20,7 +20,7 @@ time = gets.chomp.capitalize
 puts "host name?"
 host_name = gets.chomp.capitalize
 
-day_before = ((date.to_i) - 1)
+day_before = (day.to_i) - 1
 
 
 puts "Dear #{guest_name}, 
