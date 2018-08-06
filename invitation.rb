@@ -16,6 +16,9 @@ time = gets.chomp.capitalize
 puts "host name?"
 host_name = gets.chomp.capitalize
 
+date_before = date.to_i
+
+
 puts "Dear #{guest_name}, 
 
 You are cordially invited to the #{party_name} on #{date} at #{time}. Please RSVP no later than "
