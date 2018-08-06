@@ -11,7 +11,7 @@ puts "month?"
 month = gets.chomp.capitalize
 
 puts "day?"
-day = gets.chomp.capitalize
+day = gets.chomp
 
 date = month + " " + day
 puts "time?"
