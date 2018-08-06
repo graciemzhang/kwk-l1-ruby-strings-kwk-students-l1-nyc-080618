@@ -11,7 +11,7 @@ puts "date?"
 date = gets.chomp
 
 puts "host name?"
-host_name = gets.chomp.capitalize
+host_name = gets.chomp
 
 puts "Dear #{guest_name}, 
 
