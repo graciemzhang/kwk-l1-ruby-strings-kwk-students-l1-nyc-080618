@@ -11,7 +11,7 @@ puts "date?"
 date = gets.chomp.capitalize
 
 puts "time?"
-date = gets.chomp.capitalize
+time = gets.chomp.capitalize
 
 puts "host name?"
 host_name = gets.chomp.capitalize
